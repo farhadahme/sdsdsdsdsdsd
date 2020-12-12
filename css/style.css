@@ -1,0 +1,142 @@
+.first button{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 16px 9px 16px !important;
+    background: blue;
+}
+.first button:hover{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 16px 9px 16px !important;
+    background: #00A9A7;
+    transition: .5s;
+    
+}
+.cx{
+    background: #F5FFFD;
+}
+.f{
+    margin-top: 120px;
+    font-family: 'Oswald', sans-serif;
+}
+.v{
+    margin: 80px 0px 0px 0px;
+}
+.bg{
+    background: #F5FFFD;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.font{
+    font-family: 'Oswald', sans-serif;
+}
+.ancor{
+    text-decoration: none;
+}
+.ancor:hover{
+    text-decoration: none !important;
+    color: #00A9A7;
+    transition: .4s;
+}
+.marginnn{
+    margin-top: 90px;
+}
+.for-pad{
+    padding: 90px 0px 90px 0px;
+}
+.mmmm{
+    padding-top: 120px;
+}
+.fg{
+    font-family: 'Oswald', sans-serif;
+}
+.ptpt{
+    padding-top: 130px;
+}
+.bg-o{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.namsala{
+    padding-top:100px;
+}
+.mtmtmt{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.eee{
+    border: 1px solid transparent;
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px 1px 15px black;
+    padding: 20px;
+}
+.eee button{
+    background: blue;
+    color: white;
+    padding: 5px 30px 5px 30px;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+}
+.eee button:hover{
+    background: #00A9A7;
+    color: white;
+    padding: 5px 30px 5px 30px;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    transition: .5s;
+    cursor: pointer;
+}
+.t{
+    margin-bottom: 60px;
+}
+.vv{
+    
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+.join{
+    background: #F5FFFD;
+}
+.vv h2{
+    
+    
+    padding-bottom: 70px;
+}
+.bgk{
+    background: #4D82C1 !important;
+    color: white;
+}
+.bgk:hover{
+    background: #19CCC7 !important;
+    color: white;
+    transition: .5s;
+}
+.bnb{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #3E4E67;
+}
+.fab{
+    font-size: 60px;
+    padding-left: 30px;
+}
+.sd a{
+    color: #19CCC7 ;
+}
+.sd a:hover{
+    color: #b0f396 ;
+    transition: .5s;
+}
+.pok{
+    background: #F5FFFD;
+    
+}
+.posi{
+    position: fixed;
+}
+
